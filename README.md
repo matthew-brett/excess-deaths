@@ -21,3 +21,5 @@ jupyter-book build .
 ```
 
 The book build appears in the `_build/html` directory.  You can open it with your browser.
+
+More suggestions.
